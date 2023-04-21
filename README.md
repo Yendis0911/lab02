@@ -16,7 +16,7 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 ### Lighthouse Accessibility Report Score
 
 * Provide a screenshot of your score after running a Lighthouse Accessibility report.
-![It shows my score of 76]('./img/lighthouse1.png')
+![It shows my score of 76](./img/lighthouse1.png)
 
 ### Reflections and Comments
 
